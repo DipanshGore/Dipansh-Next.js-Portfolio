@@ -44,7 +44,7 @@ export const PROJECTS: Project[] = [
       "Secured WebSocket handshakes with JWT authentication and integrated Cloudinary stream processing for zero-latency asset dispatch.",
     tags: ["Socket.io", "Node.js", "Express", "MongoDB Atlas", "JWT", "Render"],
     liveUrl: "https://fullstack-chat-application-ylw0.onrender.com", // Normalized URL
-    githubUrl: "https://github.com/dipanshgore",
+    githubUrl: "https://github.com/DipanshGore/Fullstack-Chat-Application",
   },
   {
     title: "Agri-Zone B2B Marketplace",
@@ -55,7 +55,7 @@ export const PROJECTS: Project[] = [
     engineeringHighlight:
       "Designed and documented 15+ REST endpoints with custom authorization middleware for transactional order flows.",
     tags: ["React", "Express.js", "MongoDB", "RBAC", "REST Architecture"],
-    githubUrl: "https://github.com/dipanshgore",
+    githubUrl: "https://github.com/DipanshGore/agrizone",
   },
 ];
 
